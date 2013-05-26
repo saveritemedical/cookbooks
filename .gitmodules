@@ -4,9 +4,9 @@
 [submodule "opsworks_interspire"]
 	path = opsworks_interspire
 	url = git://github.com/saveritemedical/opsworks-interspire.git
-[submodule "elasticsearch"]
-	path = elasticsearch
-	url = git://github.com/interu/cookbook-elasticsearch.git
 [submodule "rails"]
 	path = rails
 	url = git://github.com/saveritemedical/cookbooks-rails.git
+[submodule "elasticsearch"]
+	path = elasticsearch
+	url = git://github.com/saveritemedical/cookbook-elasticsearch.git
