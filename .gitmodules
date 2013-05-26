@@ -7,3 +7,6 @@
 [submodule "elasticsearch"]
 	path = elasticsearch
 	url = git://github.com/interu/cookbook-elasticsearch.git
+[submodule "rails"]
+	path = rails
+	url = git://github.com/saveritemedical/cookbooks-rails.git
