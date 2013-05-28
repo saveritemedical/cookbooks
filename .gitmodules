@@ -10,3 +10,6 @@
 [submodule "elasticsearch"]
 	path = elasticsearch
 	url = git://github.com/saveritemedical/cookbook-elasticsearch.git
+[submodule "deploy"]
+	path = deploy
+	url = git://github.com/saveritemedical/opsworks-deploy.git
