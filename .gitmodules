@@ -13,3 +13,6 @@
 [submodule "deploy"]
 	path = deploy
 	url = git://github.com/saveritemedical/opsworks-deploy.git
+[submodule "postgresql"]
+	path = postgresql
+	url = git://github.com/opscode-cookbooks/postgresql.git
